@@ -1,6 +1,6 @@
 ## Setting up
 
-- From the terminal, run `git clone https://github.com/symply-Morgan/Promo-Code-API.git` to clone this repository.
+- From the terminal, run `git clone https://github.com/symplyMorgan/coding-test-assignment.git` to clone this repository.
 - Change directory into the root of the project.
 - Run `composer install` to download the project dependencies.
 - Run `cp .env.example .env` to copy the environment file.
